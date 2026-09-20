@@ -2,7 +2,7 @@
 
 ###  Software Engineer
 
-I am a versatile **Junior Software Developer** and **AI Enthusiast** with a focus on building scalable applications and optimizing data-driven systems. I specialize in bridging the gap between complex backend logic and intuitive user experiences.
+I am a versatile **Software Developer** and **AI Enthusiast** with a focus on building scalable applications and optimizing data-driven systems. I specialize in bridging the gap between complex backend logic and intuitive user experiences.
 
 ---
 
